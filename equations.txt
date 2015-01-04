@@ -1,0 +1,7 @@
+﻿"M4_mutter"= 7.4mm
+"M4_loch"= 4.3mm
+"M8_loch"= 8.4mm
+"M3_loch"= 3.3mm
+"M8_Mutter"= 13.2mm
+"M3_Mutter"= 5.9mm
+"M5_Mutter"= 8.1mm
